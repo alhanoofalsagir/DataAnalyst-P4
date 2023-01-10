@@ -56,5 +56,5 @@ Key points to keep in mind when data wrangling for this project:
 - The project does not require gathering tweets beyond August 1st, 2017.
 
 ## Code Functionality : <a name="function"></a>
-- All project code is contained in a Jupyter Notebook named wrangle_act.ipynb and runs without errors.
+- All project code is contained in a Jupyter Notebook named [wrangle_act.ipynb](https://github.com/alhanoofalsagir/DataAnalyst-P4/blob/main/wrangle_act.ipynb) and runs without errors.
 - The Jupyter Notebook has an intuitive, easy-to-follow logical structure. The code uses comments effectively and is interspersed with Jupyter Notebook Markdown cells. The steps of the data wrangling process (i.e. gather, assess, and clean) are clearly identified with comments or Markdown cells, as well.
